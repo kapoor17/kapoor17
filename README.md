@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Himanshu 👋
 
 ## About Me
 I'm a passionate full-stack web developer with [X] years of experience in creating robust and scalable web applications. I specialize in building end-to-end solutions using modern technologies and best practices. My goal is to deliver high-quality software that meets both user requirements and business objectives.
