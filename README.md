@@ -28,10 +28,10 @@ Here are some of the technologies and tools I work with:
 ## Key Projects
 Here are a few notable projects I have worked on:
 
-### Project 1: [Lille](link-to-project-repo)
+### Project 1: [Lille](https://github.com/a-design-guy/lille)
 A brief description of the project, its purpose, and the role you played. Highlight the technologies used and any notable achievements or challenges overcome.
 
-### Project 2: [Visual Quiz Builder](link-to-project-repo)
+### Project 2: [Visual Quiz Builder](https://github.com/vashisth00/shopify-application-dashboard)
 Provide a brief overview of the project, including your contributions, technologies used, and any interesting aspects or impact it had.
 
 ### Project 3: [Melody: A Spotify Clone](https://github.com/kapoor17/melody)
