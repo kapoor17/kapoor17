@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hello, I'm Himanshu 👋
 
 ## About Me
-I'm a passionate full-stack web developer with [X] years of experience in creating robust and scalable web applications. I specialize in building end-to-end solutions using modern technologies and best practices. My goal is to deliver high-quality software that meets both user requirements and business objectives.
+I'm a passionate full-stack web developer with 3 years of experience in creating robust and scalable web applications. I specialize in building end-to-end solutions using modern technologies and best practices. My goal is to deliver high-quality software that meets both user requirements and business objectives.
 
 ## Tech Stack
 Here are some of the technologies and tools I work with:
@@ -34,7 +34,7 @@ A brief description of the project, its purpose, and the role you played. Highli
 ### Project 2: [Visual Quiz Builder](link-to-project-repo)
 Provide a brief overview of the project, including your contributions, technologies used, and any interesting aspects or impact it had.
 
-### Project 3: [Melody: A Spotify Clone](link-to-project-repo)
+### Project 3: [Melody: A Spotify Clone](/melody)
 Describe the project, mentioning your involvement, challenges faced, and technologies implemented. Share any achievements, outcomes, or lessons learned.
 
 ## Let's Connect!
