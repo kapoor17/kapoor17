@@ -34,7 +34,7 @@ A brief description of the project, its purpose, and the role you played. Highli
 ### Project 2: [Visual Quiz Builder](link-to-project-repo)
 Provide a brief overview of the project, including your contributions, technologies used, and any interesting aspects or impact it had.
 
-### Project 3: [Melody: A Spotify Clone](melody)
+### Project 3: [Melody: A Spotify Clone]([melody](https://github.com/kapoor17/melody))
 Describe the project, mentioning your involvement, challenges faced, and technologies implemented. Share any achievements, outcomes, or lessons learned.
 
 ## Let's Connect!
