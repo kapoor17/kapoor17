@@ -35,7 +35,7 @@ Here are a few notable projects I have worked on:
 [Live Link](https://dashboard.visualquizbuilder.com)
 
 ### Project 3: [Chinese Wok](https://github.com/a-design-guy/chinesewok) 
-[Live Link](https://thechineswok.com)
+[Live Link](https://thechinesewok.com)
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
