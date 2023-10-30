@@ -28,11 +28,14 @@ Here are some of the technologies and tools I work with:
 ## Key Projects
 Here are a few notable projects I have worked on:
 
-### Project 1: [Lille](https://github.com/a-design-guy/lille) [Live Link](https://lille.ai)
+### Project 1: [Lille](https://github.com/a-design-guy/lille) 
+[Live Link](https://lille.ai)
 
-### Project 2: [Visual Quiz Builder](https://github.com/vashisth00/shopify-application-dashboard) [Live Link](https://dashboard.visualquizbuilder.com)
+### Project 2: [Visual Quiz Builder](https://github.com/vashisth00/shopify-application-dashboard) 
+[Live Link](https://dashboard.visualquizbuilder.com)
 
-### Project 3: [Chinese Wok](https://github.com/a-design-guy/chinesewok) [Live Link](https://thechineswok.com)
+### Project 3: [Chinese Wok](https://github.com/a-design-guy/chinesewok) 
+[Live Link](https://thechineswok.com)
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
