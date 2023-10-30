@@ -20,22 +20,19 @@ I'm a passionate full-stack web developer with 3 years of experience in creating
 ## Tech Stack
 Here are some of the technologies and tools I work with:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Next
-- **Backend**: Node.js, Nest.js
+- **Frontend**: Next.js
+- **Backend**: Nest.js
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git
 
 ## Key Projects
 Here are a few notable projects I have worked on:
 
-### Project 1: [Lille](https://github.com/a-design-guy/lille)
-A brief description of the project, its purpose, and the role you played. Highlight the technologies used and any notable achievements or challenges overcome.
+### Project 1: [Lille](https://github.com/a-design-guy/lille) [](https://lille.ai)
 
-### Project 2: [Visual Quiz Builder](https://github.com/vashisth00/shopify-application-dashboard)
-Provide a brief overview of the project, including your contributions, technologies used, and any interesting aspects or impact it had.
+### Project 2: [Visual Quiz Builder](https://github.com/vashisth00/shopify-application-dashboard) [](https://dashboard.visualquizbuilder.com)
 
-### Project 3: [Melody: A Spotify Clone](https://github.com/kapoor17/melody)
-Describe the project, mentioning your involvement, challenges faced, and technologies implemented. Share any achievements, outcomes, or lessons learned.
+### Project 3: [Chinese Wok](https://github.com/a-design-guy/chinesewok) [](https://thechineswok.com)
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via:
