@@ -21,8 +21,8 @@ I'm a passionate full-stack web developer with 3 years of experience in creating
 Here are some of the technologies and tools I work with:
 
 - **Frontend**: Next.js
-- **Backend**: Nest.js
-- **Databases**: MySQL, MongoDB
+- **Backend**: Express.js
+- **Databases**: PostgreSQL, MongoDB
 - **Version Control**: Git
 
 ## Key Projects
